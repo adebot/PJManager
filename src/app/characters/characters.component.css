@@ -1,0 +1,10 @@
+.character
+{
+    background-color: grey;
+    text-decoration-color: black;    
+}
+
+.character.selected{
+    background-color: lightblue;
+    text-decoration-color: grey;    
+}
